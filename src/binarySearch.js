@@ -17,3 +17,5 @@ const binarySearch = (arr, item) => {
 const testArray = [-12, 1, 3, 5, 6, 7, 111]
 const testArray2 = ['a', 'ab', 'b', 'c', 'd', 'de', 'e']
 console.log(binarySearch(testArray2, 'de'))
+
+export default binarySearch;
