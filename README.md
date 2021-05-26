@@ -1,3 +1,6 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/8b8d7e2467ca7fc16fb8/maintainability)](https://codeclimate.com/github/nofacez/algorithms/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/8b8d7e2467ca7fc16fb8/test_coverage)](https://codeclimate.com/github/nofacez/algorithms/test_coverage)
+
 Here I will try to create my own algorithms library which will include algorithms from a book called 'Groking algorithms'. 
 
 It's a study project but i hope it turns into a usefull tool at least for me.
