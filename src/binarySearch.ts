@@ -1,4 +1,4 @@
-const binarySearch = (arr, item) => {
+export const binarySearch = <T>(arr: T[], item: T): number | undefined => {
   let low = 0;
   let high = arr.length - 1;
   do {
@@ -13,5 +13,3 @@ const binarySearch = (arr, item) => {
   } while (low <= high);
   return undefined;
 };
-
-export default binarySearch;
